@@ -1,5 +1,5 @@
 # Frequenzino
-A crude frequenzy generator with Arduino, AD9851 dac and tm1638 display.
+A crude frequency generator with Arduino, AD9851 dac and tm1638 display.
 
 Cable connections details are in the schetch.
 
