@@ -12,7 +12,7 @@ Start frequency generation quickly pressing button 1 and 8 simultaneously.
 
 When the output is enabled you cannot change frequency!
 
-+![Scope](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/scope.jpg)
+![Scope](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/scope.jpg)
 +![Generator](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/gener.jpg?raw=true)
 
 ## Components
