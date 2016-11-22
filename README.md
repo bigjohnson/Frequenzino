@@ -13,16 +13,16 @@ Start frequency generation quickly pressing button 1 and 8 simultaneously.
 When the output is enabled you cannot change frequency!
 
 ![Scope](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/scope.jpg)
-+![Generator](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/gener.jpg?raw=true)
+![Generator](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/gener.jpg?raw=true)
 
 ## Components
 # Display
-+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/tm1638.jpg?raw=true)
+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/tm1638.jpg?raw=true)
 # DAC
-+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/AD9851.jpg?raw=true)
+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/AD9851.jpg?raw=true)
 
 ## User interface
 # Enable / disable output
-+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/start.jpg?raw=true)
+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/start.jpg?raw=true)
 # Stop and zero
-+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/zerostop.jpg?raw=true)
+![Demo](https://github.com/bigjohnson/GitHubAssets/blob/master/Frequenzino/zerostop.jpg?raw=true)
