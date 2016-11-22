@@ -6,7 +6,7 @@ Cable connections details are in the schetch.
 Require library
 https://github.com/k3ng/k3ng_analog_devices_dds
 
-Pres button to increment digit frequency.
+Push buttons to increment digit frequency.
 
 Start frequency generation quickly pressing button 1 and 8 simultaneously.
 
