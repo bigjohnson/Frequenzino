@@ -1,6 +1,8 @@
 # Frequenzino
 A crude frequenzy generator with Arduino, AD9851 dac and tm1638 display.
+
 Cable connections details are in the schetch.
+
 Require library
 https://github.com/k3ng/k3ng_analog_devices_dds
 
