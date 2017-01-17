@@ -16,7 +16,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Library fromhttps://github.com/rjbatista/tm1638-library
+// Library from https://github.com/rjbatista/tm1638-library
 #include <TM1638.h>
 // Library from https://github.com/k3ng/k3ng_analog_devices_dds
 #include <dds.h>
