@@ -3,8 +3,11 @@ A crude frequency generator with Arduino, AD9851 dac and tm1638 display.
 
 Cable connections details are in schetch.
 
-Require library
+Require libraries
+
 https://github.com/k3ng/k3ng_analog_devices_dds
+
+https://github.com/rjbatista/tm1638-library
 
 Push buttons to increment digit frequency.
 
