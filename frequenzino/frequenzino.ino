@@ -21,9 +21,9 @@
 // Library from https://github.com/k3ng/k3ng_analog_devices_dds
 #include <dds.h>
 
-#define AD9851_DATA 6
-#define AD9851_LOAD 5
-#define AD9851_CLK 4
+#define AD9851_DATA 6 // to D7
+#define AD9851_LOAD 5 // to FQUP
+#define AD9851_CLK 4  // to WCLK
 
 #define TM1638_DATA 8
 #define TM1638_CLOCK 9
